@@ -136,5 +136,7 @@ color: rgb(255, 255, 255);
     .img1{
     transform: rotate(1deg);
     }
-
+    .g-h{
+     font-size:25px;
+    }
     }
