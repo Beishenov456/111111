@@ -79,6 +79,8 @@ margin-right: 15px;
 .g-p{
 font-size: 15px;
 
+
+
 }
 .img1{
 
@@ -129,7 +131,7 @@ color: rgb(255, 255, 255);
 }
 @media all and (max-width: 400px){
 
-    .img2{
+    .st-hd{
         font-size: 20px;
         color: rgb(0, 255, 76);
     }
@@ -137,6 +139,28 @@ color: rgb(255, 255, 255);
     transform: rotate(1deg);
     }
     .g-h{
-     font-size:25px;
+        font-size: 22px;
+    
     }
+    .g-p{
+        font-size: 11px;
+    }
+    .text1{
+        font-size: 15px;
+    }   
+    .text-THE{
+        font-size: 15px;}   
+    .text-DEEP{
+     font-size: 25px;}
+    .body{
+    height: 70vh;
+    }
+    .text-111{
+        font-size: 18px;}
+    
+
+
+
+
+
     }
